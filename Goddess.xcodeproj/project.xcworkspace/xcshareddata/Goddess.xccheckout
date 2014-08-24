@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>244CD904-33F9-48EF-9835-CC9DBE959FF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Goddess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD3A9377-1443-4449-91A0-2BECFE20A5ED</key>
+		<string>https://github.com/GraphicSound/test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Goddess.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD3A9377-1443-4449-91A0-2BECFE20A5ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GraphicSound/test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD3A9377-1443-4449-91A0-2BECFE20A5ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD3A9377-1443-4449-91A0-2BECFE20A5ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Goddess</string>
+		</dict>
+	</array>
+</dict>
+</plist>
