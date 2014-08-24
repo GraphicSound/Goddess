@@ -14,6 +14,7 @@
 {
     // Override point for customization after application launch.
     
+    NSLog(@"good to go!");
     return YES;
 }
 							
